@@ -9,7 +9,7 @@ Information System
 *   🧠  I'm learning React, DSA,...
 *   ⚡  I'm spiderman
 *   🧐 Skill
-*   ![CHILL GUY](https://tenor.com/view/chill-guy-my-new-character-gif-2777893510283028272)
+* <div class="tenor-gif-embed" data-postid="2777893510283028272" data-share-method="host" data-aspect-ratio="0.911647" data-width="100%"><a href="https://tenor.com/view/chill-guy-my-new-character-gif-2777893510283028272">Chill Guy My New Character GIF</a>from <a href="https://tenor.com/search/chill+guy-gifs">Chill Guy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <p align="left">
