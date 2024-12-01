@@ -9,6 +9,8 @@ Information System
 *   🧠  I'm learning React, DSA,...
 *   ⚡  I'm spiderman
 *   🧐 Skill
+*   ![CG](https://github.com/rainy2309/rainy2309/blob/main/200w.gif)
+
 
 
 <p align="left">
