@@ -1,14 +1,14 @@
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Van Hoang ( Rainy )
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Van Hoang ( Rainy )
 ===============================================================================================================================================
 
-Information System
+Hello there! I'm studying to become BA or DA in the future. My background is that i live in Ho Chi Minh City,Vietnam and now studying information system at FPT University HCMC ( Hope graduate at 2028). Besides coding, i also loving playing esport computer games (Valorant, LoL, CS2,...). 
 ------------------
 
-*   🌍  I'm based in Ho Chi Minh City
+*   🌍  I live in Ho Chi Minh City
 *   ✉️  You can contact me at [vanhoang.work2309@gmail.com](mailto:vanhoang.work2309@gmail.com)
-*   🧠  I'm learning React, DSA,...
-*   ⚡  I'm spiderman
-*   🧐 Skill
+*   🧠  I'm learning Java, DSA,...
+*   ⚡  Reach GrandMaster TFT, Platinum Valorant.
+*   🧐 Some Tech Skills
 *   ![CG](https://github.com/rainy2309/rainy2309/blob/main/200w.gif)
 
 
