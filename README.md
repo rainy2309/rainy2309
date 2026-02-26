@@ -8,9 +8,9 @@ Hello there! I'm studying to become BA or DA in the future. My background is tha
 *   ✉️  You can contact me at [vanhoang.work2309@gmail.com](mailto:vanhoang.work2309@gmail.com)
 *   🧠  I'm learning Java, DSA,...
 *   ⚡  Reach GrandMaster TFT, Platinum Valorant.
+*   READY TO SUPPORT ANY PROJECTS FROM SE( FPTU)
 *   🧐 Some Tech Skills
 *   ![CG](https://github.com/rainy2309/rainy2309/blob/main/200w.gif)
-
 
 
 <p align="left">
