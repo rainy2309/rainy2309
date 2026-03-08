@@ -148,7 +148,7 @@ A data analysis project using **Google Trends**, **Python**, and **Power BI** to
 ---
 
 ## 😎 Fun Facts
-
+- Run and pray
 - I learn best by building actual projects
 - Sometimes debugging takes hours
 - Sometimes the bug disappears by itself and I accept the blessing
